@@ -1,2 +1,2 @@
-# SFPNBBCQA
-Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms
+# Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms
+
